@@ -31,8 +31,6 @@ figure.show()
 ```
 
 
-## Key Steps & Insights
-
 ### 1. No. of ratings of highest-rated iPhones on Flipkart
 Identified the highest-rated models. The iPhone 8 Plus (Gold) variant consistently received the highest ratings.
 
